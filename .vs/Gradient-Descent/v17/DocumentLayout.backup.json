@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Portfolio\\Projects\\Gradient-Descent\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Portfolio\\Projects\\GradientDescent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC4F5D46-AFEC-46A7-984B-5529DBD5A88B}|Gradient-Descent\\Gradient-Descent.csproj|c:\\users\\user\\portfolio\\projects\\gradient-descent\\gradient-descent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC4F5D46-AFEC-46A7-984B-5529DBD5A88B}|Gradient-Descent\\Gradient-Descent.csproj|c:\\users\\user\\portfolio\\projects\\gradientdescent\\gradient-descent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC4F5D46-AFEC-46A7-984B-5529DBD5A88B}|Gradient-Descent\\Gradient-Descent.csproj|solutionrelative:gradient-descent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Portfolio\\Projects\\Gradient-Descent\\Gradient-Descent\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Portfolio\\Projects\\GradientDescent\\Gradient-Descent\\Program.cs",
               "RelativeDocumentMoniker": "Gradient-Descent\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Portfolio\\Projects\\Gradient-Descent\\Gradient-Descent\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Portfolio\\Projects\\GradientDescent\\Gradient-Descent\\Program.cs",
               "RelativeToolTip": "Gradient-Descent\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T11:38:52.947Z",
               "EditorCaption": ""

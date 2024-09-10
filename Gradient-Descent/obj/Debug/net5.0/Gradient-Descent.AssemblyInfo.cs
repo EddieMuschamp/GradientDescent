@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gradient-Descent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+201d10f7bb9ea68aa2b640676a83fd87cc077cc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gradient-Descent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gradient-Descent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
